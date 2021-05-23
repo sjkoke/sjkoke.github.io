@@ -16,11 +16,15 @@ p {
 }
 
 a {
-  color: #2f08ff;
+  color: #a420be;
+}
+
+body {
+  background-image: url("img/sydney website 2 2021.png");
 }
 
 a:hover {
-  color: salmon;
+  color: #a420be;
 }
 
 img {
@@ -41,7 +45,7 @@ img {
 }
 
 h1 {
-  border-bottom: 1px solid rgba(82, 44, 252, .8);
+  border-bottom: 1px solid rgba(252, 44, 207, 0.8);
   color: rgba(82, 44, 252, .8);
   font-size: 1.8rem;
   font-weight: 500;
